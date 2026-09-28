@@ -1,0 +1,1055 @@
+{
+ "version": 1,
+ "quotes": [
+  {
+   "id": "en001",
+   "text": "The journey of a thousand miles begins with one step.",
+   "author": "Lao Tzu",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en002",
+   "text": "Arise, awake, and stop not till the goal is reached.",
+   "author": "Swami Vivekananda",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en003",
+   "text": "Start small. Start today. Just start.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en004",
+   "text": "Well begun is half done.",
+   "author": "Aristotle",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en005",
+   "text": "The secret of getting ahead is getting started.",
+   "author": "Mark Twain",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en006",
+   "text": "Big dreams are built from small, boring, daily work.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en007",
+   "text": "Every morning is a blank page. Write something good on it.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en008",
+   "text": "Your future self is watching. Make them proud.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en009",
+   "text": "Today's effort is tomorrow's result.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en010",
+   "text": "Nothing changes if nothing changes.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en011",
+   "text": "He who has a why to live can bear almost any how.",
+   "author": "Friedrich Nietzsche",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en012",
+   "text": "Knowing is not enough; we must apply.",
+   "author": "Johann Wolfgang von Goethe",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en013",
+   "text": "Discipline is choosing what you want most over what you want now.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en014",
+   "text": "It does not matter how slowly you go as long as you do not stop.",
+   "author": "Confucius",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en015",
+   "text": "Well done is better than well said.",
+   "author": "Benjamin Franklin",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en016",
+   "text": "Energy and persistence conquer all things.",
+   "author": "Benjamin Franklin",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en017",
+   "text": "Consistency beats intensity.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en018",
+   "text": "Show up, even on the dull days.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en019",
+   "text": "Done is better than perfect.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en020",
+   "text": "Choose progress over perfection.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en021",
+   "text": "Small steps every day still count as progress.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en022",
+   "text": "Waste no more time arguing what a good man should be. Be one.",
+   "author": "Marcus Aurelius",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en023",
+   "text": "Rest if you must, but don't quit.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en024",
+   "text": "Fall seven times, stand up eight.",
+   "author": "Japanese proverb",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en025",
+   "text": "You can't cross the sea merely by standing and staring at the water.",
+   "author": "Rabindranath Tagore",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en026",
+   "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+   "author": "Mahatma Gandhi",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en027",
+   "text": "Courage is resistance to fear, mastery of fear, not absence of fear.",
+   "author": "Mark Twain",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en028",
+   "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+   "author": "Louisa May Alcott",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en029",
+   "text": "A smooth sea never made a skilled sailor.",
+   "author": "English proverb",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en030",
+   "text": "The best way out is always through.",
+   "author": "Robert Frost",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en031",
+   "text": "Difficulties strengthen the mind, as labour does the body.",
+   "author": "Seneca",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en032",
+   "text": "You've survived every hard day so far.",
+   "author": "",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en033",
+   "text": "Faith is the bird that feels the light when the dawn is still dark.",
+   "author": "Rabindranath Tagore",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en034",
+   "text": "Nature does not hurry, yet everything is accomplished.",
+   "author": "Lao Tzu",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en035",
+   "text": "Adopt the pace of nature: her secret is patience.",
+   "author": "Ralph Waldo Emerson",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en036",
+   "text": "We suffer more often in imagination than in reality.",
+   "author": "Seneca",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en037",
+   "text": "You have power over your mind, not outside events. Realise this, and you will find strength.",
+   "author": "Marcus Aurelius",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en038",
+   "text": "Breathe in calm. Breathe out doubt.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en039",
+   "text": "Protect your peace.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en040",
+   "text": "Great things take time. So do you.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en041",
+   "text": "Patience is bitter, but its fruit is sweet.",
+   "author": "Jean-Jacques Rousseau",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en042",
+   "text": "He that can have patience can have what he will.",
+   "author": "Benjamin Franklin",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en043",
+   "text": "The roots of education are bitter, but the fruit is sweet.",
+   "author": "Aristotle",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en044",
+   "text": "Learning never exhausts the mind.",
+   "author": "Leonardo da Vinci",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en045",
+   "text": "An investment in knowledge pays the best interest.",
+   "author": "Benjamin Franklin",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en046",
+   "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+   "author": "Mahatma Gandhi",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en047",
+   "text": "Take up one idea. Make that one idea your life.",
+   "author": "Swami Vivekananda",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en048",
+   "text": "One chapter. One hour. One step closer.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en049",
+   "text": "Revision is where marks are made.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en050",
+   "text": "Mock tests build confidence, not just scores.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en051",
+   "text": "The syllabus is finite. Your effort can cover it.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en052",
+   "text": "Study now, shine later.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en053",
+   "text": "Luck is what happens when preparation meets opportunity.",
+   "author": "Seneca",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en054",
+   "text": "Speak to yourself like someone you love.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en055",
+   "text": "Be patient with yourself. Growth is quiet.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en056",
+   "text": "Self-trust is the first secret of success.",
+   "author": "Ralph Waldo Emerson",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en057",
+   "text": "Whatever you are, be a good one.",
+   "author": "Abraham Lincoln",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en058",
+   "text": "You don't need a new day to start over, only a new moment.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en059",
+   "text": "Slow progress is still progress.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en060",
+   "text": "You are allowed to rest. You are not allowed to give up on yourself.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en061",
+   "text": "Gratitude is the memory of the heart.",
+   "author": "Jean Baptiste Massieu",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en062",
+   "text": "Very little is needed to make a happy life.",
+   "author": "Marcus Aurelius",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en063",
+   "text": "Gratitude turns what we have into enough.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en064",
+   "text": "Say thank you more often than you say sorry.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en065",
+   "text": "Count the small wins. They add up.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en066",
+   "text": "Little by little, one travels far.",
+   "author": "Spanish proverb",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en067",
+   "text": "Keep your face towards the sunshine, and shadows will fall behind you.",
+   "author": "",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en068",
+   "text": "We are what we repeatedly do.",
+   "author": "Will Durant",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en069",
+   "text": "Write it on your heart that every day is the best day in the year.",
+   "author": "Ralph Waldo Emerson",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en070",
+   "text": "Nothing great was ever achieved without enthusiasm.",
+   "author": "Ralph Waldo Emerson",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en071",
+   "text": "Go confidently in the direction of your dreams.",
+   "author": "Henry David Thoreau",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en072",
+   "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+   "author": "Chinese proverb",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en073",
+   "text": "Begin at once to live.",
+   "author": "Seneca",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en074",
+   "text": "Do what you can, with what you have, where you are.",
+   "author": "Theodore Roosevelt",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en075",
+   "text": "Where there's a will, there's a way.",
+   "author": "English proverb",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en076",
+   "text": "You don't have to feel ready. You just have to begin.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en077",
+   "text": "One good hour can change a whole day.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en078",
+   "text": "Make today the day you stop waiting.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en079",
+   "text": "Your only competition is who you were yesterday.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en080",
+   "text": "Don't wait for motivation. Start, and it will find you.",
+   "author": "",
+   "cat": "motivation",
+   "lang": "en"
+  },
+  {
+   "id": "en081",
+   "text": "Lost time is never found again.",
+   "author": "Benjamin Franklin",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en082",
+   "text": "Little strokes fell great oaks.",
+   "author": "Benjamin Franklin",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en083",
+   "text": "While we are postponing, life speeds by.",
+   "author": "Seneca",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en084",
+   "text": "No man is free who is not master of himself.",
+   "author": "Epictetus",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en085",
+   "text": "First say to yourself what you would be; and then do what you have to do.",
+   "author": "Epictetus",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en086",
+   "text": "Do it tired. Do it slowly. Just do it.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en087",
+   "text": "Future you is built on ordinary days like this one.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en088",
+   "text": "Phone down. Work up.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en089",
+   "text": "Make the first five minutes easy. The rest will follow.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en090",
+   "text": "Keep the promises you make to yourself, even the small ones.",
+   "author": "",
+   "cat": "discipline",
+   "lang": "en"
+  },
+  {
+   "id": "en091",
+   "text": "Let me not pray to be sheltered from dangers, but to be fearless in facing them.",
+   "author": "Rabindranath Tagore",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en092",
+   "text": "Our doubts are traitors, and make us lose the good we oft might win by fearing to attempt.",
+   "author": "William Shakespeare",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en093",
+   "text": "Fortune favours the bold.",
+   "author": "Latin proverb",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en094",
+   "text": "Even the darkest night will end and the sun will rise.",
+   "author": "Victor Hugo",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en095",
+   "text": "Scared and doing it anyway is still brave.",
+   "author": "",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en096",
+   "text": "You are stronger than this moment.",
+   "author": "",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en097",
+   "text": "Say yes to the thing that scares you a little.",
+   "author": "",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en098",
+   "text": "Hard days are part of the story, not the end of it.",
+   "author": "",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en099",
+   "text": "The comeback is always stronger than the setback.",
+   "author": "",
+   "cat": "courage",
+   "lang": "en"
+  },
+  {
+   "id": "en100",
+   "text": "Our life is frittered away by detail. Simplify, simplify.",
+   "author": "Henry David Thoreau",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en101",
+   "text": "The two most powerful warriors are patience and time.",
+   "author": "Leo Tolstoy",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en102",
+   "text": "Clouds come floating into my life, no longer to carry rain or usher storm, but to add colour to my sunset sky.",
+   "author": "Rabindranath Tagore",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en103",
+   "text": "Better than a thousand hollow words is one word that brings peace.",
+   "author": "The Dhammapada",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en104",
+   "text": "Rome wasn't built in a day.",
+   "author": "English proverb",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en105",
+   "text": "After the storm comes the calm.",
+   "author": "English proverb",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en106",
+   "text": "You don't have to solve your whole life today.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en107",
+   "text": "Slow down. You're allowed to breathe.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en108",
+   "text": "This feeling is a visitor. It will leave.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en109",
+   "text": "Unclench your jaw. Drop your shoulders. Breathe.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en110",
+   "text": "One thing at a time. This thing, right now.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en111",
+   "text": "Not every thought deserves your attention.",
+   "author": "",
+   "cat": "calm",
+   "lang": "en"
+  },
+  {
+   "id": "en112",
+   "text": "Real knowledge is to know the extent of one's ignorance.",
+   "author": "Confucius",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en113",
+   "text": "As long as you live, keep learning how to live.",
+   "author": "Seneca",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en114",
+   "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+   "author": "Thomas Edison",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en115",
+   "text": "The hardest part is opening the book. Open it.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en116",
+   "text": "Twenty-five minutes of focus. Five of rest. Repeat.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en117",
+   "text": "Understand it once, and you won't need to memorise it twice.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en118",
+   "text": "Every topic you finish is one less to worry about.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en119",
+   "text": "Marks follow practice. Practice follows habit.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en120",
+   "text": "Don't compare your chapter one to someone else's chapter twenty.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en121",
+   "text": "Sleep is part of studying, not a break from it.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en122",
+   "text": "Mistakes in practice save marks in the exam.",
+   "author": "",
+   "cat": "study",
+   "lang": "en"
+  },
+  {
+   "id": "en123",
+   "text": "You cannot believe in God until you believe in yourself.",
+   "author": "Swami Vivekananda",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en124",
+   "text": "We know what we are, but know not what we may be.",
+   "author": "William Shakespeare",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en125",
+   "text": "Comparison is the thief of joy.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en126",
+   "text": "You are doing better than you think.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en127",
+   "text": "Rest is productive too.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en128",
+   "text": "Be proud of how far you've come.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en129",
+   "text": "Your worth is not measured by your productivity.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en130",
+   "text": "It's okay to start again as many times as you need.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en131",
+   "text": "Be the friend to yourself that you are to others.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en132",
+   "text": "You're allowed to outgrow who you used to be.",
+   "author": "",
+   "cat": "self_love",
+   "lang": "en"
+  },
+  {
+   "id": "en133",
+   "text": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
+   "author": "Epictetus",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en134",
+   "text": "When you drink water, remember the spring.",
+   "author": "Chinese proverb",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en135",
+   "text": "Notice one good thing today. Then another.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en136",
+   "text": "Someone is praying for the things you take for granted.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en137",
+   "text": "A grateful heart finds more to be grateful for.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en138",
+   "text": "Today, thank someone who helped you get here.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en139",
+   "text": "Small joys are still joys.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en140",
+   "text": "Morning tea, a kind word, a clear sky. Count them.",
+   "author": "",
+   "cat": "gratitude",
+   "lang": "en"
+  },
+  {
+   "id": "en141",
+   "text": "The happiness of your life depends upon the quality of your thoughts.",
+   "author": "Marcus Aurelius",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en142",
+   "text": "If it is not right, do not do it; if it is not true, do not say it.",
+   "author": "Marcus Aurelius",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en143",
+   "text": "The best revenge is to be unlike him who performed the injury.",
+   "author": "Marcus Aurelius",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en144",
+   "text": "Knowing others is intelligence; knowing yourself is true wisdom.",
+   "author": "Lao Tzu",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en145",
+   "text": "Nothing is worth more than this day.",
+   "author": "Johann Wolfgang von Goethe",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en146",
+   "text": "Listen more than you speak.",
+   "author": "",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en147",
+   "text": "What you practise grows stronger.",
+   "author": "",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en148",
+   "text": "Be kind. Everyone is carrying something.",
+   "author": "",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en149",
+   "text": "Time spent well is never wasted.",
+   "author": "",
+   "cat": "wisdom",
+   "lang": "en"
+  },
+  {
+   "id": "en150",
+   "text": "The right people will stay. Let the rest go.",
+   "author": "",
+   "cat": "wisdom",
+   "lang": "en"
+  }
+ ]
+}
