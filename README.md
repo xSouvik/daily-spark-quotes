@@ -18,6 +18,7 @@ App URL: `https://raw.githubusercontent.com/xSouvik/daily-spark-quotes/main/quot
    - `cat`: motivation, discipline, courage, calm, study, self_love, gratitude or wisdom.
    - `lang`: always `en`. The app is English-only and skips anything else.
    - `author`: leave empty for proverbs and original lines.
+   - At most 160 characters, so every quote fits the smallest widget.
    - Only public-domain quotes, proverbs, or lines you wrote.
 2. Bump `version` at the top.
 3. Run `python check_quotes.py`. It must say OK.
@@ -26,6 +27,6 @@ App URL: `https://raw.githubusercontent.com/xSouvik/daily-spark-quotes/main/quot
 ## Safety
 
 - The app keeps the last good download. A broken file never wipes quotes off anyone's phone.
-- Quotes over 400 characters, non-English quotes, and entries without an id or text are skipped.
+- Quotes over 160 characters, non-English quotes, and entries without an id or text are skipped.
 - Deleting a quote removes it from phones at the next sync. A user's saved favourite of it
   simply stops showing.

@@ -7,7 +7,7 @@ import json
 import sys
 
 CATS = {"motivation", "discipline", "courage", "calm", "study", "self_love", "gratitude", "wisdom"}
-MAX_TEXT = 400   # the app ignores longer quotes; keep them under ~200 so they fit widgets
+MAX_TEXT = 160   # the app ignores longer quotes; this keeps every quote readable on the smallest widget
 
 path = sys.argv[1] if len(sys.argv) > 1 else "quotes.json"
 try:
@@ -32,8 +32,6 @@ for i, q in enumerate(quotes, 1):
         problems.append(f"{where}: missing text")
     elif len(text) > MAX_TEXT:
         problems.append(f"{where}: text is {len(text)} characters (max {MAX_TEXT})")
-    elif len(text) > 200:
-        print(f"note  {where}: {len(text)} characters, may be small on widgets")
     if text.lower() in texts:
         problems.append(f"{where}: same text as another quote")
     texts.add(text.lower())
