@@ -1,6 +1,6 @@
 # Daily Spark privacy policy
 
-Last updated: 29 September 2026
+Last updated: 29 September 2026 (fonts)
 
 Daily Spark (Android app, package `com.ironscript.dailyspark`) shows motivational quotes on
 your home screen, lock screen and in the app. This policy explains what happens to your data.
@@ -18,23 +18,28 @@ These are stored only on your device, inside the app:
 - your favourites and the quotes you write
 - your streak, badges and reflections
 - a photo you choose as a lock-screen background (a copy, reduced in size)
+- text you share into the app from other apps to save as a quote
 
 The developer never receives any of this. Android may include it in your phone's own backup to
 your Google account if you have backups turned on; that is handled by Google under your
 account's settings, and the developer cannot see it.
 
-## The one thing that goes online
+## What goes online
 
-Once a day, the app downloads the list of quotes from GitHub
-(`raw.githubusercontent.com/xSouvik/daily-spark-quotes`). This is a plain file download over
-HTTPS. The app sends nothing about you with it. Like any website, GitHub receives the
-standard network information needed to deliver a file (such as your IP address), under
+- Once a day, the app downloads the list of quotes from GitHub
+  (`raw.githubusercontent.com/xSouvik/daily-spark-quotes`).
+- The first time you pick a font that isn't built in, the app downloads that font file from
+  Google's public font collection on GitHub (`raw.githubusercontent.com/google/fonts`).
+
+These are plain file downloads over HTTPS. The app sends nothing about you with them.
+Like any website, GitHub receives the standard network information needed to deliver a file
+(such as your IP address), under
 [GitHub's privacy statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 The developer receives none of this.
 
 ## Permissions
 
-- **Internet**: only to download the quote list described above.
+- **Internet**: only to download the quote list and fonts described above.
 - **Notifications** (you choose): the daily quote and the evening streak reminder. They are
   created on your phone; nothing is sent from a server.
 - **Set wallpaper**: to put a quote on your lock screen or home screen when you ask it to.
